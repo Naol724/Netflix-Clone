@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import "./Row.css";
 import axios from "../../../utils/axios";
 import movieTrailer from 'movie-trailer';
